@@ -16,14 +16,14 @@ Este proyecto demuestra cómo configurar todos los pines del puerto D de un micr
 
 **Hardware:**
 
-* Microcontrolador STM8S (especificar el modelo si lo conoces)
+* Microcontrolador STM8S103f6
 * LEDs conectados a los pines del puerto D
 * Resistencias limitadoras de corriente para los LEDs
 
 **Software:**
 
 * Lenguaje de programación: C
-* Entorno de desarrollo: (Especificar el entorno que utilizas)
+* Entorno de desarrollo: SDCC, Makefile, Linux
 
 **Cómo ejecutar:**
 
